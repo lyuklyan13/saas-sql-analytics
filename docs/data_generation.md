@@ -1,0 +1,1 @@
+0. Describe how the entity relationship diagram was modeled - normalized.

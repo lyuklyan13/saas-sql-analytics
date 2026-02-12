@@ -1,3 +1,5 @@
+RECHECK ALL FILES - RE READ EVERYTHING - FINAL STEP
+
 This project simulates real-world SaaS analytics
 using a PostgreSQL database.
 
