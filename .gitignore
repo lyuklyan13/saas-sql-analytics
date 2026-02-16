@@ -1,18 +1,59 @@
+# =========================
 # OS files
+# =========================
 .DS_Store
 Thumbs.db
 
-# IDE
+# =========================
+# IDE / Editor
+# =========================
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# DBeaver local project files 
+# =========================
+# DBeaver
+# =========================
 *.dbeaver-data-sources.xml
 *.dbeaver
+.metadata/
+.project
+.settings/
 
+# =========================
 # Logs
+# =========================
 *.log
 
-# Temporary files
+# =========================
+# Temporary / backup files
+# =========================
 *.tmp
 *.bak
+*.backup
+
+# =========================
+# CSV exports (keep only samples)
+# =========================
+results/*.csv
+!results/*_sample.csv
+
+# =========================
+# Large screenshots (optional)
+# =========================
+results/screenshots/*.psd
+results/screenshots/*.xcf
+
+# =========================
+# Database dumps (if ever created)
+# =========================
+*.sql.dump
+*.backup.sql
+*.tar
+
+# =========================
+# Environment files (safety)
+# =========================
+.env
+.env.*
