@@ -12,6 +12,13 @@ The project simulates a subscription-based SaaS platform and demonstrates advanc
 - Billing quality checks
 
 ---
+## Database Schema (ERD)
+
+<p align="center">
+  <img src="docs/ERD.png" alt="SaaS Subscription ER Diagram" width="800">
+</p>
+
+---
 
 ## 🏗 Project Structure
 
