@@ -128,19 +128,3 @@ No real user or company data is included.
 This project was built to simulate real-world analytical workflows on operational SaaS data.
 
 The database is intentionally normalized (OLTP-style), requiring analytical queries to derive business metrics from transactional data.
-
----
-
-## 📎 License
-
-MIT License
-
-
-
-
-
-
-
-The goal is to analyze subscription revenue, 
-retention, churn signals, and user behavior using
-advanced SQL (windows function, CTEs, cohort logic).
